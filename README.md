@@ -1,0 +1,1 @@
+## Arquivos de compilação Protheus
